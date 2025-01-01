@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm Currently Preparing For Java Full Stack.<br>💬Ask me about good First Issues to work on.<br>😊Pronouns : He/His<br>⚡Fun fact : Solving A 3*3 Rubik's cube under 1min
+💻I'm Currently Working as a Data Engineer.<br>💬Ask me about good First Issues to work on.<br>😊Pronouns : He/His<br>⚡Fun fact : Solving A 3*3 Rubik's cube under 1min
 
 
 ## 🌐 Socials:
